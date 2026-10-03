@@ -1,0 +1,10 @@
+info={
+    "Name":["T.Neeraj","Stark"],
+    "Age":19,
+    "City":"Bellampalli",
+    "Hobbies":["Coding","Learning","Speak"]
+}
+info["City"]="Hyderabad"
+print(info)
+print(info["Age"])
+print(type(info))

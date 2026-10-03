@@ -1,0 +1,1 @@
+print("Hello world","\nThis is first python program in prime batch")
